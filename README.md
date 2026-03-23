@@ -125,8 +125,8 @@ The dashboard focuses on decision-making, not just reporting:
 - **Majority of Revenue is by Repeat Customers**
 - **Revenue Trend by Month (transactions table)**
 
-> Add dashboard screenshot here:
-`/assets/dashboard.png`
+> 
+![dashboard](assets/churn_dash_bi.png)
 
 ---
 
@@ -149,10 +149,10 @@ The dashboard focuses on decision-making, not just reporting:
 
 ## Repository Structure
 - `/notebooks/` — Python cleaning + feature engineering
-- `/data/` — cleaned exports (optional to include depending on size)
+- `/data/` — cleaned export and raw data link
 - `/sql/` — PostgreSQL table definitions and analysis queries
-- `/powerbi/` — Power BI report file (or instructions to reproduce)
-- `/assets/` — dashboard image(s)
+- `/powerbi/` — Power BI report file
+- `/assets/` — dashboard image
 
 ---
 
@@ -167,6 +167,6 @@ The dashboard focuses on decision-making, not just reporting:
 
 ---
 
-## Contact
-Chand Saleem  
-GitHub: https://github.com/chandsaleem
+## Author
+Chand Saleem
+https://www.linkedin.com/in/chand-saleem/
